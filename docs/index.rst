@@ -34,9 +34,10 @@ The main advantages of using Aida are:
 - Reporting and analysis in real time
 - Integration with AI algorithms for anticipated prediction of the tests results
 
-.. _what-label:
 
 .. highlight:: py
+
+.. _what-label:
 
 What is Aida
 -------------------
@@ -82,8 +83,8 @@ Subscription plans
 Using Aida Test Suite
 ==============
 
-For start using Aida you have to register a new demo account on aida website `registration <http://aidaproject.io/>`_.
-Once the configuration is ready you receive at the registration email address personal link and username/password data for access into the login screen:
+For start using Aida you have to register a new demo account on aida website `registration page <http://aidaproject.io/>`_.
+Once the configuration is ready you'll receive at the registration email address personal link and username/password data for access into the login screen:
 
 .. figure:: img/login.png
    :scale: 50 %
