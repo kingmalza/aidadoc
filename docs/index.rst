@@ -43,7 +43,7 @@ Strings section
    :maxdepth: 2
    :caption: strings:
    
-   Test strings 
+Test strings 
 
 Indices and tables
 ==================
