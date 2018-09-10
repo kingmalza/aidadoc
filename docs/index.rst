@@ -16,6 +16,7 @@ Welcome to AidaDocs's documentation!
    numeric
 
 .. _about-label:
+
 Something About Aida
 ==============
 
@@ -34,6 +35,7 @@ The main advantages of using Aida are:
 - Integration with AI algorithms for anticipated prediction of the tests results
 
 .. _what-label:
+
 What is Aida
 -------------------
 Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary :command:'test'.
@@ -56,11 +58,12 @@ Contents
 * :ref:`involved-label`
 
 .. _start-label:
+
 Start with Aida
 ==============
 
 .. figure:: img/logo.png
-   :scale: 0 %
+   :scale: 50 %
    :alt: map to buried treasure
 
    This is the caption of the figure (a simple paragraph).
