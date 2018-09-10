@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AidaDocs's documentation!
+Welcome to Aida's documentation!
 ====================================
 
 .. toctree::
@@ -36,9 +36,11 @@ The main advantages of using Aida are:
 
 .. _what-label:
 
+.. highlight:: py
+
 What is Aida
 -------------------
-Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary :command:'test'.
+Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary :code:`TEST'.
 
 
 Contents
@@ -80,11 +82,11 @@ Subscription plans
 Using Aida Test Suite
 ==============
 
-For start using Aida you have to register a new demo account on aida website :ref:'http://aifaproject.io'
+For start using Aida you have to register a new demo account on aida website `registration <http://aidaproject.io/>`_.
 Once the configuration is ready you receive at the registration email address personal link and username/password data for access into the login screen:
 
 .. figure:: img/login.png
-   :scale: 100 %
+   :scale: 50 %
    :alt: Aida login page
 
 .. _using1-label:
