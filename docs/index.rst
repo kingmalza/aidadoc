@@ -59,8 +59,8 @@ Contents
 Start with Aida
 ==============
 
-.. figure:: img/picture.png
-   :scale: 50 %
+.. figure:: img/logo.png
+   :scale: 0 %
    :alt: map to buried treasure
 
    This is the caption of the figure (a simple paragraph).
