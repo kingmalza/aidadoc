@@ -65,12 +65,13 @@ Start with Aida
 Aida was prouded developed by:
 
 .. figure:: img/logo.png
-   :scale: 20 %
+   :target: http://cathedral.ai
+   :scale: 30 %
    :alt: Cathedral.ai logo
 
 and bla bla
    
-Subsection Header
+Subscription plans
 -----------------
 
 
