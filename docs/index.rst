@@ -9,6 +9,7 @@ Welcome to AidaDocs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :titlesonly:
 
 This application enables Django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service website.
 
@@ -18,7 +19,7 @@ Django provides currently no simple way to support multiple tenants using the sa
 - Shared and Tenant-Specific data
 - Tenant View-Routing
 
-What are Aida
+What is Aida
 -------------------
 A schema can be seen as a directory in an operating system, each directory (schema) with it’s own set of files (tables and objects). This allows the same table name and objects to be used in different schemas without conflict. For an accurate description on schemas, see PostgreSQL’s official documentation on schemas.
 
