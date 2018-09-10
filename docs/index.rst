@@ -16,7 +16,7 @@ Welcome to AidaDocs's documentation!
    numeric
 
 
-Intro section
+Something About Aida
 ==============
 
 .. toctree::
@@ -39,11 +39,11 @@ The main advantages of using Aida are:
 
 What is Aida
 -------------------
-A schema can be seen as a directory in an operating system, each directory (schema) with it’s own set of files (tables and objects). This allows the same table name and objects to be used in different schemas without conflict. For an accurate description on schemas, see PostgreSQL’s official documentation on schemas.
+Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary.
 
 
-Indices and tables
-==================
+Contents
+--------------
 
 * :ref:`genindex`
 * :ref:`modindex`
