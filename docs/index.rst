@@ -16,7 +16,6 @@ Welcome to AidaDocs's documentation!
    numeric
 
 .. _about-label:
-
 Something About Aida
 ==============
 
@@ -34,7 +33,7 @@ The main advantages of using Aida are:
 - Reporting and analysis in real time
 - Integration with AI algorithms for anticipated prediction of the tests results
 
-
+.. _what-label:
 What is Aida
 -------------------
 Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary.
@@ -43,12 +42,21 @@ Aida is a Functional testing tool which is best suited not just for regression t
 Contents
 --------------
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`about-label`
+* :ref:`what-label`
+* :ref:`start-label`
+* :ref:`using-label`
+   * :ref:`using1-label`
+   * :ref:`using2-label`
+   * :ref:`using3-label`
+* :ref:`templates-label`
+* :ref:`advanced-label`
+* :ref:`support-label`
+   * :ref:`support1-label`
+* :ref:`involved-label`
 
-
-Welcome
+.. _start-label:
+Start with Aida
 ==============
 
 Subsection Header
@@ -74,27 +82,39 @@ Subsection Header
       i) List items can even include
 
          paragraph breaks.
-         
+
+.. _using-label:
 Using Aida Test Suite
 ==============
 
+.. _using1-label:
+History
+-----------------
+
+.. _using2-label:
 Testset
 -----------------
 
-Templates
------------------
-
+.. _using3-label:
 Files
 -----------------
 
+.. _templates-label:
+Create and Manage Templates
+==================
+
+.. _advanced-label:
 Advanced Usage
 ==============
 
+.. _support-label:
 Support
 ==============
 
+.. _support1-label:
 Ticketing system
 -----------------
 
+.. _involved-label:
 Get Involved!
 ==============
