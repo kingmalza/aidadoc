@@ -23,27 +23,24 @@ Intro section
    
    intro
 
-This application enables Django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service website.
+Aida ATM (Automation Test Suite) allows you to create, manage, plan and perform independently any type of test on any type of software / firmware.. A vital feature for every business in every industrial sector.
 
-Django provides currently no simple way to support multiple tenants using the same project instance, even when only the data is different. Because we don’t want you running many copies of your project, you’ll be able to have:
+Aida offers a native integration with roboframework and selenium, it uses a fast and intuitive graphic interface for the creation of its test templates and allows the importation of any existing .robot files inside the suite.
+In addition, the "Standalone" version allows you to write and import custom test libraries into Aida and integrate them automatically with the entire process.
 
-- Multiple customers running on the same instance
-- Shared and Tenant-Specific data
-- Tenant View-Routing
+The main advantages of using Aida are:
+
+- Management of the Testset as template; possibility of multiple launches contemporary with different variables
+- Quick and intuitive template writing
+- Integration with every type of python library
+- Reporting and analysis in real time
+- Integration with AI algorithms for anticipated prediction of the tests results
+
 
 What is Aida
 -------------------
 A schema can be seen as a directory in an operating system, each directory (schema) with it’s own set of files (tables and objects). This allows the same table name and objects to be used in different schemas without conflict. For an accurate description on schemas, see PostgreSQL’s official documentation on schemas.
 
-
-Strings section
-==============
-
-.. toctree::
-   
-   string
-   
-Test strings 
 
 Indices and tables
 ==================
@@ -51,6 +48,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`intro`
 
 
 Welcome
