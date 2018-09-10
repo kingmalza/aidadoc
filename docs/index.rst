@@ -48,7 +48,7 @@ Contents
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`intro`
+   * :ref:`welcome`
 
 
 Welcome
