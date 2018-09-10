@@ -80,6 +80,13 @@ Subscription plans
 Using Aida Test Suite
 ==============
 
+For start using Aida you have to register a new demo account on aida website :ref:'http://aifaproject.io'
+Once the configuration is ready you receive at the registration email address personal link and username/password data for access into the login screen:
+
+.. figure:: img/login.png
+   :scale: 100 %
+   :alt: Aida login page
+
 .. _using1-label:
 
 History
