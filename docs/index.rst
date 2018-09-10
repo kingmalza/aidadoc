@@ -62,68 +62,59 @@ Contents
 Start with Aida
 ==============
 
-.. figure:: img/logo.png
-   :scale: 50 %
-   :alt: map to buried treasure
+Aida was prouded developed by:
 
-   This is the caption of the figure (a simple paragraph).
+.. figure:: img/logo.png
+   :scale: 20 %
+   :alt: Cathedral.ai logo
+
+and bla bla
    
 Subsection Header
 -----------------
-- A bullet list item
-- Second item
 
-  - A sub item
-
-- Spacing between items creates separate lists
-
-- Third item
-
-1) An enumerated list item
-
-2) Second item
-
-   a) Sub item that goes on at length and thus needs
-      to be wrapped. Note the indentation that must
-      match the beginning of the text, not the 
-      enumerator.
-
-      i) List items can even include
-
-         paragraph breaks.
 
 .. _using-label:
+
 Using Aida Test Suite
 ==============
 
 .. _using1-label:
+
 History
 -----------------
 
 .. _using2-label:
+
 Testset
 -----------------
 
 .. _using3-label:
+
 Files
 -----------------
 
 .. _templates-label:
+
 Create and Manage Templates
 ==================
 
 .. _advanced-label:
+
 Advanced Usage
 ==============
 
 .. _support-label:
+
 Support
 ==============
 
 .. _support1-label:
+
 Ticketing system
 -----------------
 
 .. _involved-label:
+
 Get Involved!
 ==============
