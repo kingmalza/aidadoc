@@ -10,7 +10,7 @@ Welcome to AidaDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   intro
+   what-label
    strings
    datatypes
    numeric
