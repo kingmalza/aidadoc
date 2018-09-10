@@ -15,13 +15,11 @@ Welcome to AidaDocs's documentation!
    datatypes
    numeric
 
+.. _about-label:
 
 Something About Aida
 ==============
 
-.. toctree::
-   
-   intro
 
 Aida ATM (Automation Test Suite) allows you to create, manage, plan and perform independently any type of test on any type of software / firmware.. A vital feature for every business in every industrial sector.
 
@@ -47,7 +45,7 @@ Contents
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search`
+* :ref:`about-label`
 
 
 Welcome
