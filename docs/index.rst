@@ -9,7 +9,7 @@ Welcome to AidaDocs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :titlesonly:
+   :hidden:
 
 This application enables Django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service website.
 
