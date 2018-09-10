@@ -20,8 +20,8 @@ Intro section
 ==============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: intro:
+   
+   intro
 
 This application enables Django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service website.
 
@@ -40,8 +40,8 @@ Strings section
 ==============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: strings:
+   
+   string
    
 Test strings 
 
