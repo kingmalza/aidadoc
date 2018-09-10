@@ -9,7 +9,19 @@ Welcome to AidaDocs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :hidden:
+
+   intro
+   strings
+   datatypes
+   numeric
+
+
+Intro section
+==============
+
+.. toctree::
+   :maxdepth: 2
+   :caption: intro:
 
 This application enables Django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service website.
 
@@ -23,6 +35,15 @@ What is Aida
 -------------------
 A schema can be seen as a directory in an operating system, each directory (schema) with it’s own set of files (tables and objects). This allows the same table name and objects to be used in different schemas without conflict. For an accurate description on schemas, see PostgreSQL’s official documentation on schemas.
 
+
+Strings section
+==============
+
+.. toctree::
+   :maxdepth: 2
+   :caption: strings:
+   
+  Test strings 
 
 Indices and tables
 ==================
