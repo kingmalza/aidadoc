@@ -83,6 +83,7 @@ Subscription plans
 Create user and manage groups
 ==============
 
+----------------
 Create and manage groups
 -----------------
 
