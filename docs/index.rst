@@ -39,11 +39,12 @@ The main advantages of using Aida are:
 
 .. _what-label:
 
+-------------------
 What is Aida
 -------------------
 Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary :code:`TEST'.
 
-
+--------------
 Contents
 --------------
 
@@ -74,9 +75,11 @@ Aida was prouded developed by:
    :alt: Cathedral.ai logo
 
 and bla bla
-   
+
+-----------------
 Subscription plans
 -----------------
+
 
 .. _user-label:
 
@@ -90,9 +93,9 @@ Create and manage groups
 In Aida, the group is a grouping of actions that the user associated with that group can perform within the system.
 Basically the types of action that can be associated with a group are:
 
-- :bold: View
-- :bold: Add/Edit
-- :bold: Delete
+* :bold:'View'
+* :bold:'Add/Edit'
+* :bold:'Delete'
 
 To define and manage groups in Aida, it is sufficient to use the Templates-> Group Manager menu
 
@@ -106,6 +109,27 @@ Once you have access to group management from the main menu, the administration 
    :scale: 50 %
    :alt: Aida groups
 
+
+Create a new group
+-----------------
+
+To create a new group of users is sufficient, from the group management screen just opened select the "ADD GROUP" button, the mask to add a new group will appear:
+
+.. figure:: img/group_new.png
+   :scale: 50 %
+   :alt: Aida groups
+
+* :bold:'Name' :Name that you want give to the new group (unique)
+* :bold:'Available permissions' :Permissions that can be provided or denied on the various system tables
+* :bold:'Chosen permission' :Permits that have been assigned to the group we are creating
+
+Within all Aida administration forms, there are three buttons to confirm the changes you want to make:
+
+* :bold:'Save and add another' :It saves the data entered, and proposes the same cleaned mask in order to quickly perform a new data entry. (in some masks, once this option is selected, the system will re-propose some pre-filled fields to guarantee insertion speed)
+* :bold:'Save and continue editing' :Save the entered data and re-propose the mask with the same data inside the various fields present before the saving
+* :bold:'SAVE' :Save the entered data and return to the list of options previous to the current mask.
+
+-----------------
 Create and manage user
 -----------------
 
