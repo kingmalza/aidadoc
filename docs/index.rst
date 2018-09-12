@@ -97,7 +97,7 @@ Basically the types of action that can be associated with a group are:
 * **Add/Edit**
 * **Delete**
 
-To define and manage groups in Aida, it is sufficient to use the Templates-> Group Manager menu
+To define and manage groups in Aida, it is sufficient to use the **Users and Groups-> Group Manager** menu
 
 .. figure:: img/home_user.png
    :scale: 50 %
@@ -214,10 +214,12 @@ To manage an existing user whether it is a newly created user or a previously co
 Using Aida as a Test Suite
 ===========================
 
-For start using Aida you have to register a new demo account on aida website `registration page <http://aidaproject.io/>`_.
-Once the configuration is ready you'll receive at the registration email address personal link and username/password data for access into the login screen:
+Aida is a test suite based on robotframework and selenium that allows you to perform almost any type of test on any environment you want.
+To test with Aida you must first create a template that can then be run by different users and with different values from the Aida testing engine.
 
-.. figure:: img/login.png
+Once logged in to the system, to go to configure a test you need to use the ** Templates Manager ** link from the main menu:
+
+.. figure:: img/template_main.png
    :scale: 50 %
    :alt: Aida login page
 
