@@ -86,6 +86,19 @@ Create user and manage groups
 Create and manage groups
 -----------------
 
+In Aida, the group is a grouping of actions that the user associated with that group can perform within the system.
+Basically the types of action that can be associated with a group are:
+
+- :bold: View
+- :bold: Add/Edit
+- :bold: Delete
+
+To define and manage groups in Aida, it is sufficient to use the Templates-> Group Manager menu
+
+.. figure:: img/home_user.png
+   :scale: 50 %
+   :alt: Aida homepage
+
 Create and manage user
 -----------------
 
