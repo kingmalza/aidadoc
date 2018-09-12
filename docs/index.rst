@@ -158,12 +158,12 @@ Create a new user
 
 To create a new user in Aida, from the main user management mask, select the ** ADD USER + ** button
 
-.. figure:: img/user_add.png
+.. figure:: img/user_home.png
    :scale: 50 %
    :alt: Aida groups
 
 
-.. figure:: img/user_new.png
+.. figure:: img/user_add.png
    :scale: 50 %
    :alt: Aida groups
 
