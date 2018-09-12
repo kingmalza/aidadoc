@@ -123,11 +123,12 @@ To create a new group of users is sufficient, from the group management screen j
 * :bold:'Available permissions' :Permissions that can be provided or denied on the various system tables
 * :bold:'Chosen permission' :Permits that have been assigned to the group we are creating
 
-Within all Aida administration forms, there are three buttons to confirm the changes you want to make:
+.. note::
+   Within all Aida administration forms, there are three buttons to confirm the changes you want to make:
 
-* :bold:'Save and add another' :It saves the data entered, and proposes the same cleaned mask in order to quickly perform a new data entry. (in some masks, once this option is selected, the system will re-propose some pre-filled fields to guarantee insertion speed)
-* :bold:'Save and continue editing' :Save the entered data and re-propose the mask with the same data inside the various fields present before the saving
-* :bold:'SAVE' :Save the entered data and return to the list of options previous to the current mask.
+   * :bold:'Save and add another' :It saves the data entered, and proposes the same cleaned mask in order to quickly perform a new data    entry. (in some masks, once this option is selected, the system will re-propose some pre-filled fields to guarantee insertion speed)
+   * :bold:'Save and continue editing' :Save the entered data and re-propose the mask with the same data inside the various fields present before the saving
+   * :bold:'SAVE' :Save the entered data and return to the list of options previous to the current mask.
 
 -----------------
 Create and manage user
