@@ -50,6 +50,7 @@ Contents
 * :ref:`about-label`
 * :ref:`what-label`
 * :ref:`start-label`
+* :ref:`user-label`
 * :ref:`using-label`
    * :ref:`using1-label`
    * :ref:`using2-label`
@@ -75,6 +76,17 @@ Aida was prouded developed by:
 and bla bla
    
 Subscription plans
+-----------------
+
+.. _user-label:
+
+Create user and manage groups
+==============
+
+Create and manage groups
+-----------------
+
+Create and manage user
 -----------------
 
 
