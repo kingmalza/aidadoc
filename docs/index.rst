@@ -2,7 +2,7 @@
    sphinx-quickstart on Mon Sep 10 11:12:51 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-====================================
+   
 Welcome to Aida's documentation!
 ====================================
 
@@ -246,8 +246,12 @@ Once you have selected the step to be created for creating the template, you wil
 .. figure:: img/template2.png
    :scale: 50 %
    :alt: Aida login page
-   
-   
+
+
+.. _templates-label:
+
+Manage Aida frontend
+==================  
 
 .. _using1-label:
 
@@ -265,12 +269,6 @@ Testset
 
 Files
 -----------------
-
-
-.. _templates-label:
-
-Create and Manage Templates
-==================
 
 
 .. _advanced-label:
