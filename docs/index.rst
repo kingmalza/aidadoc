@@ -99,6 +99,12 @@ To define and manage groups in Aida, it is sufficient to use the Templates-> Gro
    :scale: 50 %
    :alt: Aida homepage
 
+Once you have access to group management from the main menu, the administration screen will show the list of active groups in the system:
+   
+.. figure:: img/group_home.png
+   :scale: 50 %
+   :alt: Aida groups
+
 Create and manage user
 -----------------
 
