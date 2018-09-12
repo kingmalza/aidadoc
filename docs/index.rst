@@ -93,9 +93,9 @@ Create and manage groups
 In Aida, the group is a grouping of actions that the user associated with that group can perform within the system.
 Basically the types of action that can be associated with a group are:
 
-* :bold:'View'
-* :bold:'Add/Edit'
-* :bold:'Delete'
+* **View**
+* **Add/Edit**
+* **Delete**
 
 To define and manage groups in Aida, it is sufficient to use the Templates-> Group Manager menu
 
@@ -119,16 +119,31 @@ To create a new group of users is sufficient, from the group management screen j
    :scale: 50 %
    :alt: Aida groups
 
-* :bold:'Name' :Name that you want give to the new group (unique)
-* :bold:'Available permissions' :Permissions that can be provided or denied on the various system tables
-* :bold:'Chosen permission' :Permits that have been assigned to the group we are creating
+* **Name** :Name that you want give to the new group (unique)
+* **Available permissions** :Permissions that can be provided or denied on the various system tables
+* **Chosen permission** :Permits that have been assigned to the group we are creating
 
 .. note::
    Within all Aida administration forms, there are three buttons to confirm the changes you want to make:
 
-   * :bold:'Save and add another' :It saves the data entered, and proposes the same cleaned mask in order to quickly perform a new data    entry. (in some masks, once this option is selected, the system will re-propose some pre-filled fields to guarantee insertion speed)
-   * :bold:'Save and continue editing' :Save the entered data and re-propose the mask with the same data inside the various fields present before the saving
-   * :bold:'SAVE' :Save the entered data and return to the list of options previous to the current mask.
+   * **Save and add another** :It saves the data entered, and proposes the same cleaned mask in order to quickly perform a new data    entry. (in some masks, once this option is selected, the system will re-propose some pre-filled fields to guarantee insertion speed)
+   * **Save and continue editing** :Save the entered data and re-propose the mask with the same data inside the various fields present before the saving
+   * **SAVE** :Save the entered data and return to the list of options previous to the current mask.
+
+
+Manage an existing group
+-----------------
+
+To go to manage an existing group, and sufficient, from the main group management page, select the group on which you intend to work, the following screen will appear:
+
+.. figure:: img/group_edit.png
+   :scale: 50 %
+   :alt: Aida groups
+   
+The mask is similar to that for adding a new group seen before, with the difference that in the **Chosen permissions** section there are the previously assigned permissions.
+
+.. note::
+   In all the editing templates of Aida there is the possibility to see the history of the changes made on the data that are being managed through the use of the ** HISTORY ** button located at the top right.
 
 -----------------
 Create and manage user
