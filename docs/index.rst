@@ -185,18 +185,28 @@ To manage an existing user whether it is a newly created user or a previously co
 * **Username**: The selected User username
 * **Password**: *Raw passwords are not stored, so there is no way to see this user's password*
 * **Personal info**
-** **First name**: The first name of the user (optional)
-** **Last name**: The last name for the user (optional)
-** **Email address**: Email address for the user (used for password remember etc. etc.)
+  * **First name**: The first name of the user (optional)
+  * **Last name**: The last name for the user (optional)
+  * **Email address**: Email address for the user (used for password remember etc. etc.)
 
 .. figure:: img/user_manage2.png
    :scale: 50 %
    :alt: Aida groups
-   
+
+* **Permissions**
+  * **Active**: *Designates whether this user should be treated as active. Unselect this instead of deleting accounts.*
+  * **Staff status**: *Designates whether the user can log into this admin site.*
+  * **Superuser status**: *Designates that this user has all permissions without explicitly assigning them.*
+  * **Groups**: Groups to which the user is associated by inheriting the permissions set
+  * **User Permissions**: It is possible to set individual permissions for the specific user outside those set for the group.
+
 .. figure:: img/user_manage3.png
    :scale: 50 %
    :alt: Aida groups
-   
+
+* **Important dates**
+  * **Last login**: Date and time of the last system login made by the selected user
+  * **Date joined**: Date and time when the user was created for the first time
    
 .. _using-label:
 
