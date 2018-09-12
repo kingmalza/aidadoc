@@ -176,8 +176,28 @@ To create a new user in Aida, from the main user management mask, select the ** 
 Manage an existing user
 -----------------
 
+To manage an existing user whether it is a newly created user or a previously configured user, simply select the one you want to manage from the initial user management screen:
 
+.. figure:: img/user_manage1.png
+   :scale: 50 %
+   :alt: Aida groups
+   
+* **Username**: The selected User username
+* **Password**: *Raw passwords are not stored, so there is no way to see this user's password*
+* **Personal info**
+** **First name**: The first name of the user (optional)
+** **Last name**: The last name for the user (optional)
+** **Email address**: Email address for the user (used for password remember etc. etc.)
 
+.. figure:: img/user_manage2.png
+   :scale: 50 %
+   :alt: Aida groups
+   
+.. figure:: img/user_manage3.png
+   :scale: 50 %
+   :alt: Aida groups
+   
+   
 .. _using-label:
 
 Using Aida Test Suite
@@ -189,6 +209,7 @@ Once the configuration is ready you'll receive at the registration email address
 .. figure:: img/login.png
    :scale: 50 %
    :alt: Aida login page
+
 
 .. _using1-label:
 
