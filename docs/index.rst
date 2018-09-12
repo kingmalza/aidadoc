@@ -224,6 +224,31 @@ Once logged in to the system, to go to configure a test you need to use the ** T
    :alt: Aida login page
 
 
+1-Main Templates
+-----------------
+
+Once you have selected the step to be created for creating the template, you will be presented with the form containing the list of data present in that session, simply go to select the **ADD ..** button to add a new record or select a value existing to be able to manage it.
+
+.. figure:: img/template1.png
+   :scale: 50 %
+   :alt: Aida login page
+
+* **Description**: Template name that is being created
+* **Note**: Additional information regarding the template you are going to create
+
+.. warning::
+   * **API Owner**: User to the interaction rights will be assigned through API to the specific table. Only the selected user can manage API calls to that specific data
+
+
+2-Test Cases
+-----------------
+
+.. figure:: img/template2.png
+   :scale: 50 %
+   :alt: Aida login page
+   
+   
+
 .. _using1-label:
 
 History
