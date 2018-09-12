@@ -115,7 +115,7 @@ Create a new group
 
 To create a new group of users is sufficient, from the group management screen just opened select the "ADD GROUP" button, the mask to add a new group will appear:
 
-.. figure:: img/group_new.png
+.. figure:: img/group_add.png
    :scale: 50 %
    :alt: Aida groups
 
@@ -136,7 +136,7 @@ Manage an existing group
 
 To go to manage an existing group, and sufficient, from the main group management page, select the group on which you intend to work, the following screen will appear:
 
-.. figure:: img/group_edit.png
+.. figure:: img/group_manage.png
    :scale: 50 %
    :alt: Aida groups
    
@@ -145,9 +145,37 @@ The mask is similar to that for adding a new group seen before, with the differe
 .. note::
    In all the editing templates of Aida there is the possibility to see the history of the changes made on the data that are being managed through the use of the ** HISTORY ** button located at the top right.
 
+
 -----------------
 Create and manage user
 -----------------
+
+Once the aida group (s) have been defined, it is possible to create one or more users to associate with that group through the **User Management** function from the Aida homescreen.
+
+
+Create a new user
+-----------------
+
+To create a new user in Aida, from the main user management mask, select the ** ADD USER + ** button
+
+.. figure:: img/user_add.png
+   :scale: 50 %
+   :alt: Aida groups
+
+
+.. figure:: img/user_new.png
+   :scale: 50 %
+   :alt: Aida groups
+
+
+* **Username**: The username you want to assign to the user you are creating (unique)
+* **Password**: The password for the user, must be complied following the indications regarding the requirements listed under this field
+* **Password confirmation**: The same password entered previously
+
+
+Manage an existing user
+-----------------
+
 
 
 .. _using-label:
