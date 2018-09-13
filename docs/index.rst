@@ -15,6 +15,7 @@ Welcome to Aida's documentation!
    datatypes
    numeric
 
+
 .. _about-label:
 
 Something About Aida
@@ -44,6 +45,7 @@ What is Aida
 -------------------
 Aida is a Functional testing tool which is best suited not just for regression testing of the applications. Aida is free in web version and does not have hardware or software specification limits which is one of the most popular tools available in the market. It compares the actual and expected result and reports the results in the execution summary :code:`TEST'.
 
+
 --------------
 Contents
 --------------
@@ -58,9 +60,11 @@ Contents
    * :ref:`using3-label`
 * :ref:`templates-label`
 * :ref:`advanced-label`
+* :ref:`api-label`
 * :ref:`support-label`
    * :ref:`support1-label`
 * :ref:`involved-label`
+
 
 .. _start-label:
 
@@ -76,6 +80,7 @@ Aida was prouded developed by:
 
 and bla bla
 
+
 -----------------
 Subscription plans
 -----------------
@@ -85,6 +90,7 @@ Subscription plans
 
 Create user and manage groups
 ==============
+
 
 ----------------
 Create and manage groups
@@ -253,6 +259,7 @@ Once you have selected the step to be created for creating the template, you wil
 Manage Aida frontend
 ==================  
 
+
 .. _using1-label:
 
 History
@@ -274,6 +281,12 @@ Files
 .. _advanced-label:
 
 Advanced Usage
+==============
+
+
+.. _api-label:
+
+API Documentation
 ==============
 
 
