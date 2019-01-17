@@ -16,6 +16,7 @@ Contents:
    code_example
    start
    usergroups
+   firstuse
 
 
 Something About Aida
