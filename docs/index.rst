@@ -15,14 +15,6 @@ Contents:
    what
    code_example
 
-Indices and tables
-==================
-
-* :ref:`about-label`
-   * :ref:`what-label`
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 Something About Aida
 ==============
