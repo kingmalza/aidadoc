@@ -9,3 +9,8 @@ Aida was prouded developed by:
    :alt: Cathedral.ai logo
 
 and bla bla
+
+-----------------
+Subscription plans
+-----------------
+
