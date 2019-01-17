@@ -74,6 +74,7 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output -------------------------------------------------
 html_theme_options = {
+    "display_github": False,
     'canonical_url': '',
     'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
     'logo_only': False,
