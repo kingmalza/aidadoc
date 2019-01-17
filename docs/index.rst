@@ -17,6 +17,11 @@ Contents:
    start
    usergroups
    firstuse
+   frontend
+   advanced
+   api
+   support
+   involved
 
 
 Something About Aida
