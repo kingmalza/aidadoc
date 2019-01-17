@@ -12,12 +12,14 @@ Contents:
    :maxdepth: 2
    :caption: Contents:
 
-   intro
+   what
    code_example
 
 Indices and tables
 ==================
 
+* :ref:`about-label`
+   * :ref:`what-label`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
