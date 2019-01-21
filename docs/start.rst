@@ -8,9 +8,11 @@ Aida was prouded developed by:
    :scale: 30 %
    :alt: Cathedral.ai logo
 
-and bla bla
 
 -----------------
 Subscription plans
 -----------------
 
+   -----------------
+   Subscription2 plans
+   -----------------
