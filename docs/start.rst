@@ -13,6 +13,6 @@ Aida was prouded developed by:
 Subscription plans
 -----------------
 
-   -----------------
-   Subscription2 plans
-   -----------------
+
+Subscription2 plans
+-----------------
