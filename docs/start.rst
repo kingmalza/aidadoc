@@ -14,5 +14,9 @@ Subscription plans
 -----------------
 
 
-Subscription2 plans
+OnDemand subscription
+-----------------
+
+
+FLAT Rate subscription
 -----------------
