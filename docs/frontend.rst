@@ -2,6 +2,9 @@ Manage Aida frontend
 ==================  
 
 
+Active 
+-----------------
+
 .. _using1-label:
 
 History
@@ -10,11 +13,11 @@ History
 
 .. _using2-label:
 
-Testset
+Libraries
 -----------------
 
 
 .. _using3-label:
 
-Files
+Keywords
 -----------------
