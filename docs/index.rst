@@ -13,7 +13,6 @@ Contents:
    :caption: Contents:
 
    what
-   code_example
    start
    usergroups
    firstuse
