@@ -33,3 +33,19 @@ Once you have selected the step to be created for creating the template, you wil
 .. figure:: img/template2.png
    :scale: 50 %
    :alt: Aida login page
+
+
+3-Test Variables
+-----------------
+
+
+4-Test Settings
+-----------------
+
+
+5-Test Cases Main Chain
+-----------------
+
+
+6-Keywords Link Chain
+-----------------
