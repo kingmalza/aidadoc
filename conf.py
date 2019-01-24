@@ -83,17 +83,11 @@ html_theme_options = {
     'style_external_links': False,
     'vcs_pageview_mode': '',
     # Toc options
-    'collapse_navigation': True,
+    'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
     'titles_only': False
-}
-
-html_context = {
-    "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
-    "last_updated": True,
-    "commit": False,
 }
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
