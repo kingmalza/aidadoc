@@ -26,3 +26,6 @@ The pay is provided only for the actual time of use of the aida's test engine, a
 
 FLAT Rate subscription
 -----------------
+
+The FLAT option of the aida payment plan provides for the unlimited use of all the functions of aida including those related to the execution of tests without requiring any payment on consumption.
+The FLAT plan has a cost of € 149 / month which includes unlimited use of the suite and its test engine.
