@@ -30,7 +30,7 @@ Once you have selected the step to be created for creating the template, you wil
 2-Test Cases
 -----------------
 
-.. figure:: img/template2.png
+.. figure:: img/test_cases.png
    :scale: 50 %
    :alt: Aida login page
 
