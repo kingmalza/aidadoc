@@ -44,8 +44,7 @@ The window consists of the following main areas:
    **Every Day**: By entering the time in the format HH: MM the test is repeated until the manual syop by the user at the same time every day.
    
    .. figure:: img/active_general.png
-   :scale: 50 %
-   :alt: Aida active general
+
 
 
 History
