@@ -115,6 +115,12 @@ In this area it's possible to connect test cases, variables and related values t
    .. figure:: img/for_black.png
 
 
+It is possible to add a new association or modify an existing one simply by setting the parameters related to main template, associated test case, key / value and eventual grouping in add or edit mask.
+
+.. figure:: img/test_mc_add.png
+   :scale: 50 %
+   :alt: Aida test settings
+
 
 6-Keywords Link Chain
 -----------------
