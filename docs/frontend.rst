@@ -49,6 +49,23 @@ The window consists of the following main areas:
   .. figure:: img/active_general.png
 
 
+**System Load Chart**
+
+The system load management graph monitors the situation related to the activity on the central system in relation to the load of the your dedicated test engine.
+
+.. figure:: img/active_load.png
+   :scale: 50 %
+   :alt: Aida test keywords
+
+
+**Preview**
+
+The preview area allows you to view, once the template to be executed is selected, a representation of the test structure that will be created dynamically created by the template settings.
+
+.. figure:: img/active_preview.png
+   :scale: 50 %
+   :alt: Aida test keywords
+
 
 History
 -----------------
