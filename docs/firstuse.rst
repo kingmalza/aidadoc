@@ -30,9 +30,13 @@ Once you have selected the step to be created for creating the template, you wil
 2-Test Cases
 -----------------
 
+The page dedicated to the creation / modification of the tet cases allows authirized users to create and associate all the test cases that you want to include to a main template.
+
 .. figure:: img/test_cases.png
    :scale: 50 %
    :alt: Aida login page
+
+By selecting an existing test case it's possible to modify the data (Template id, description of the test case and API owner), while using the "**ADD 2-TEST CASE**" button it will be possible to insert a new test case.
 
 
 3-Test Variables
