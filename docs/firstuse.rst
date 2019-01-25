@@ -103,19 +103,17 @@ In this area it's possible to connect test cases, variables and related values t
 .. figure:: img/test_mc.png
    :scale: 50 %
    :alt: Aida test settings
-   
+
+
 .. note::
    In this form it is possible to implement also for loops using the key ded: FOR as follows:
    
    .. figure:: img/for_set.png
-   :scale: 50 %
-   :alt: Aida test settings
    
    The result is a directive within the testcase that will be executed at each test run.
    
    .. figure:: img/for_black.png
-   :scale: 50 %
-   :alt: Aida test settings
+
 
 
 6-Keywords Link Chain
