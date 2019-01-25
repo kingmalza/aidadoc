@@ -147,3 +147,14 @@ To manage / add keys to aida it is sufficient to use the "Keywords" link in the 
 .. figure:: img/key_mgm.png
    :scale: 50 %
    :alt: Aida keywords
+   
+To add or manage a keyword it is sufficient to select it or use the "ADD KEYWORD" button
+
+.. figure:: img/key_add.png
+   :scale: 50 %
+   :alt: Aida keywords
+   
+By default the new keys are proposed as "Personal", to change this setting is sufficient to flag the "**Personal keyword**" option
+
+.. note::
+   It is possible to show the keyword in a "human" connotation at the moment of the selection for the creation of template simply modifying the description in the Human field.
