@@ -48,7 +48,7 @@ The variable management mask allows to associate to the main template key / valu
    :scale: 50 %
    :alt: Aida test variables
 
-.. info::
+.. note::
    These settings influence the display of the frontend side template and manage the possibility of inserting and modifying the values in execution of the test.
 If you need to insert data that can not be modified during the test execution phase, these should not be inserted in this form.
 
