@@ -76,7 +76,7 @@ The settings management mask allows to associate to the main template almost all
 .. warning::
    When associating new libraries with your template make sure to enter the correct value in the "Value" field once Type **Lybrary** is specified.
    The add / edit mask shows at the bottom the list of libraries currently available for your work environment.
-An incorrect association of the value of a library can lead to errors in the execution of the test.
+   An incorrect association of the value of a library can lead to errors in the execution of the test.
    
 
 5-Test Cases Main Chain
