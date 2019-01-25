@@ -56,6 +56,13 @@ If you need to insert data that can not be modified during the test execution ph
    :scale: 50 %
    :alt: Aida test variables
 
+The template for managing / inserting the variables provides for selecting the main template to which the data is to be linked, the name of the variable and any value (it is also possible to leave it null)
+
+.. figure:: img/variables_add.png
+   :scale: 50 %
+   :alt: Aida test variables
+
+
 4-Test Settings
 -----------------
 
