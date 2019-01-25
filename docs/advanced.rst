@@ -66,12 +66,32 @@ Through this page it will be possible, besides giving the project name, to add a
    The project will be visible and usable to perform the tests contained until the stop date. Once finished, it will no longer be possible to select this project to run the tests contained in it.
 
 
-TAG Manager
------------------
-
-
 The TAGS Templates Link
 -----------------
+
+Aida allows the use of TAGs to identify, grouping and execute bunch of different templates at the same time.
+
+.. figure:: img/tag_agg.png
+   :scale: 50 %
+   :alt: Aida test keywords
+
+
+To create the TAG / Templates association, open the "**TAGS TEMPLATES LINK**" link from the template manager
+
+.. figure:: img/tag.png
+   :scale: 50 %
+   :alt: Aida test keywords
+   
+   
+In the edit / insert management mask it is possible to associate a template with a specific TAG, to do this select the Template in the **Main Id** field and the tag in **Tag Id** option.
+
+.. figure:: img/tag_add.png
+   :scale: 50 %
+   :alt: Aida test keywords
+   
+.. note::
+   The main difference between the project / template association and the TAG / template association lies in the fact that the former refers to a project with its own life cycle while the latter is a bookmark of one or more groups of templates.
+
 
 
 Test Group Item
