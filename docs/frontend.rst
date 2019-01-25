@@ -94,8 +94,35 @@ From this position it will be possible to view the HTML representation of the te
 Libraries
 -----------------
 
+Currently aida has implemented several libraries to implement test templates on practically most of the software / firmware aspects that can be tested.
+The aida's built-in libraries allow to perform tests on different aspects such as:
 
-.. _using3-label:
+   - Web applications
+   - Mobile applications
+   - Different types of files
+   - FTP server
+   - HTTP Requests
+   - REST APIs
+   - SFTP applications
+   - TFTP services
+   - Third-party framework like Django
+   - Any GUI component
 
+... and so on
+
+The libraries currently installed in aida are:
+
+.. figure:: img/lib_list.png
+   :scale: 50 %
+   :alt: Aida libraries
+
+**It is possible to load custom libraries** to be used inside your templates using the "**Libraries**" link in the lateral management menu or in the "**Template Manager**" through the "ADD" function next to "LIBRARIES"
+
+.. figure:: img/lib_add.png
+   :scale: 50 %
+   :alt: Aida libraries
+   
+   
+   
 Keywords
 -----------------
