@@ -69,7 +69,7 @@ The template for managing / inserting the variables provides for selecting the m
 
 The settings management mask allows to associate to the main template almost all types of manageable libraries (Library, Documentation, Test Setup, Test Teardown etc.)
 
-.. figure:: img/test_variables.png
+.. figure:: img/test_lib.png
    :scale: 50 %
    :alt: Aida test variables
  
