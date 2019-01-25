@@ -67,7 +67,7 @@ The template for managing / inserting the variables provides for selecting the m
 4-Test Settings
 -----------------
 
-The settings management mask allows to associate to the main template almost all types of manageable libraries (Library, Documentation, Test Setup, Test Teardown etc.)
+The settings management mask allows to associate to the main template almost all types of manageable libraries (Library, Documentation, Test Setup, Test Teardown, Suite Setup, Suite teardown, etc.)
 
 .. figure:: img/test_lib.png
    :scale: 50 %
@@ -78,6 +78,22 @@ The settings management mask allows to associate to the main template almost all
    The add / edit mask shows at the bottom the list of libraries currently available for your work environment.
    An incorrect association of the value of a library can lead to errors in the execution of the test.
    
+.. figure:: img/test_lib_install.png
+   :scale: 50 %
+   :alt: Aida test settings
+
+To add a new library just go to select the button on the upper right "**ADD 4-TEST SETTING**" and fill in the form with the data relative to the name of the main template, type and value of the library and eventual grouping of values if necessary
+
+.. figure:: img/test_lib_add.png
+   :scale: 50 %
+   :alt: Aida test settings
+   
+.. note::
+   The grouping function allows you to **aggregate multiple values to a single type of data**. If, for example, you want to create a Library-like setting with both "RequestsLibrary" and "Collections" values, simply add the line twice in the settings to indicate the same group.
+   
+.. figure:: img/test_lib_group.png
+   :scale: 50 %
+   :alt: Aida test settings
 
 5-Test Cases Main Chain
 -----------------
