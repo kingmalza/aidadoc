@@ -112,3 +112,16 @@ Through the use of the group creation / modification mask it is possible to asso
 
 Test Group Item
 -----------------
+
+After creating the group, it is necessary to associate the templates that you want to run together
+
+.. figure:: img/tgi.png
+   :scale: 50 %
+   :alt: Aida test keywords
+   
+.. note::
+   When you insert a template within a group it is possible to define the order of execution of each one of it. Templates with lower priority will be executed first, in order of priority. In case of equal priority level the templates will be executed in order of insertion.
+   
+.. figure:: img/tgi_add.png
+   :scale: 50 %
+   :alt: Aida test keywords
