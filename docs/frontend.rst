@@ -49,6 +49,7 @@ The window consists of the following main areas:
   .. figure:: img/active_general.png
 
 
+
 **System Load Chart**
 
 The system load management graph monitors the situation related to the activity on the central system in relation to the load of the your dedicated test engine.
@@ -58,20 +59,37 @@ The system load management graph monitors the situation related to the activity 
    :alt: Aida test keywords
 
 
+
 **Preview**
 
 The preview area allows you to view, once the template to be executed is selected, a representation of the test structure that will be created dynamically created by the template settings.
 
 .. figure:: img/active_preview.png
    :scale: 50 %
-   :alt: Aida test keywords
+   :alt: Aida test preview
+
 
 
 History
 -----------------
 
+The management of the history in aida includes all the completed tests.
+From the summary table you can go to view all the information about the tests performed and their subchilds (in case of multiple executions).
+Selecting a column name automatically the whole table will be sorted by this value, first click ascending order, second one descending order. To return to original table view, simply order by ID (first column)
 
-.. _using2-label:
+.. figure:: img/history.png
+   :scale: 50 %
+   :alt: Aida test history
+  
+  
+Selecting a line you will be able to see the details of the whole process.
+
+.. figure:: img/history_tline.png
+   :scale: 50 %
+   :alt: Aida test history
+   
+From this position it will be possible to view the HTML representation of the test performed using the "**RAW Html**" key, the log file of each execution using the "**Log details**" button, the details of the variables and their values used during the test execution; In case the integration with Jira is active, it will be possible to send directly to a Jira Issue, the detail of test execution and the relative log created.
+   
 
 Libraries
 -----------------
