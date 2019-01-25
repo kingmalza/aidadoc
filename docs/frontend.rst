@@ -36,14 +36,14 @@ The window consists of the following main areas:
    **Random (String)**: By entering the number of characters of which the string should be composed, the system automatically at each run cycle will insert a random string with the number of characters defined in the test
 
 
-   At the base of the section it is possible to go and schedule the repetitiveness of the execution; this can be set to:
-
-   **Once**: The test is performed only once
-   **Every Minutes**: specifying the value of the minutes of waiting between one execution and another the test is performed until the manual stop by the user every n minutes defined.
-   **Every hour**: No input value requested by the user; The test is performed until the user stops every hour starting from the first execution.
-   **Every Day**: By entering the time in the format HH: MM the test is repeated until the manual syop by the user at the same time every day.
+  At the base of the section it is possible to go and schedule the repetitiveness of the execution; this can be set to:
+  
+  **Once**: The test is performed only once
+  **Every Minutes**: specifying the value of the minutes of waiting between one execution and another the test is performed until the manual stop by the user every n minutes defined.
+  **Every hour**: No input value requested by the user; The test is performed until the user stops every hour starting from the first execution.
+  **Every Day**: By entering the time in the format HH: MM the test is repeated until the manual syop by the user at the same time every day.
    
-   .. figure:: img/active_general.png
+  .. figure:: img/active_general.png
 
 
 
