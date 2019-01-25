@@ -124,3 +124,13 @@ It is possible to add a new association or modify an existing one simply by sett
 
 6-Keywords Link Chain
 -----------------
+
+In this area it's possible to link together standard keys with custom keys and associate values with them. This association will create the "Kewords" table in the test
+
+.. figure:: img/key_tab.png
+   :scale: 50 %
+   :alt: Aida test keywords
+   
+.. figure:: img/tab_key.png
+   :scale: 50 %
+   :alt: Aida test keywords
