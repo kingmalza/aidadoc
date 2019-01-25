@@ -98,6 +98,15 @@ To add a new library just go to select the button on the upper right "**ADD 4-TE
 5-Test Cases Main Chain
 -----------------
 
+In this area it's possible to connect test cases, variables and related values to each other. Unlike the Test Variables area, in this case the name / value association for the variable remains **inside** the template and is executed during the run of the test without being able to be modified by the tester at frontend.
+
+.. figure:: img/test_mc.png
+   :scale: 50 %
+   :alt: Aida test settings
+   
+.. note::
+   The grouping function allows you to **aggregate multiple values to a single type of data**. If, for example, you want to create a Library-like setting with both "RequestsLibrary" and "Collections" values, simply add the line twice in the settings to indicate the same group.
+
 
 6-Keywords Link Chain
 -----------------
