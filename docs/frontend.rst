@@ -139,7 +139,7 @@ Keywords within the aida system can be created and managed in two ways, as **Per
 Basically the non-personal keys are intended as the built-in keys of standard libraries (all the keys of robotframework for example) while the personal keys are those inserted / created by the user.
 The big difference between these two types of keys is that the personal keys can be connected as sub keys to non-personal ones, but not the opposite.
 
-.. alert::
+.. warning::
    This kind of behavior particularly affects the key / value association phase (See the topic "Keywords Link chain" https://aidadoc.readthedocs.io/en/latest/firstuse.html#keywords-link-chain)
    
 To manage / add keys to aida it is sufficient to use the "Keywords" link in the main menu or through the "Template Manager"
