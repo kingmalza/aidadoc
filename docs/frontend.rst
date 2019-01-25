@@ -121,6 +121,12 @@ The libraries currently installed in aida are:
 .. figure:: img/lib_add.png
    :scale: 50 %
    :alt: Aida libraries
+
+
+.. note::
+   Currently only libraries written in python and packaged according to the python standard (https://packaging.python.org/tutorials/packaging-projects/) are accepted.
+   The loaded libraries will remain in the PENDING state until they are approved by the aida control staff.
+   Once approved, they can be incorporated into the templates.
    
    
    
