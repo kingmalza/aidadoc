@@ -134,3 +134,10 @@ In this area it's possible to link together standard keys with custom keys and a
 .. figure:: img/tab_key.png
    :scale: 50 %
    :alt: Aida test keywords
+   
+   
+For manage the insertion and modification of the data, it's sufficient from the insertion or modification mask indicate the main template, the primary key and the sub-key to link, as well as the value to be associated.
+
+.. figure:: img/tab_key_add.png
+   :scale: 50 %
+   :alt: Aida test keywords
