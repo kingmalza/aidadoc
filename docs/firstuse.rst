@@ -67,6 +67,17 @@ The template for managing / inserting the variables provides for selecting the m
 4-Test Settings
 -----------------
 
+The settings management mask allows to associate to the main template almost all types of manageable libraries (Library, Documentation, Test Setup, Test Teardown etc.)
+
+.. figure:: img/test_variables.png
+   :scale: 50 %
+   :alt: Aida test variables
+ 
+ .. warning::
+   When associating new libraries with your template make sure to enter the correct value in the "Value" field once Type **Lybrary** is specified.
+   The add / edit mask shows at the bottom the list of libraries currently available for your work environment.
+An incorrect association of the value of a library can lead to errors in the execution of the test.
+   
 
 5-Test Cases Main Chain
 -----------------
