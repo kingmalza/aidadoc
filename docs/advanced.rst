@@ -66,6 +66,7 @@ Through this page it will be possible, besides giving the project name, to add a
    The project will be visible and usable to perform the tests contained until the stop date. Once finished, it will no longer be possible to select this project to run the tests contained in it.
 
 
+
 The TAGS Templates Link
 -----------------
 
@@ -93,10 +94,21 @@ In the edit / insert management mask it is possible to associate a template with
    The main difference between the project / template association and the TAG / template association lies in the fact that the former refers to a project with its own life cycle while the latter is a bookmark of one or more groups of templates.
 
 
-
-Test Group Item
+Test Group Manager
 -----------------
 
+A more complex way of managing the test groups is that linked to the function called "**TEST GROUP MANAGER**", accessible through the Template Manager mask
 
-Test Group Manager
+.. figure:: img/tgm.png
+   :scale: 50 %
+   :alt: Aida test keywords
+
+Through the use of the group creation / modification mask it is possible to associate a priority to it so that, in the case of launches of several concurrent groupings, those with lower priority obtain the precedence of execution on the others at the resource allocation level of the test engine.
+
+.. figure:: img/tgm_add.png
+   :scale: 50 %
+   :alt: Aida test keywords
+
+
+Test Group Item
 -----------------
