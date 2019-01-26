@@ -19,7 +19,9 @@ Using the link in the main menu "**Schema API**" it will be possible to display 
 .. figure:: img/postman.png
    :scale: 50 %
    :alt: Aida test keywords
-   
+
+
+A python GET call example for reteive the same data and manage its as a json object.
 
 .. code-block:: python
    
@@ -40,4 +42,15 @@ Using the link in the main menu "**Schema API**" it will be possible to display 
 
    # extracting data in json format 
    data = r.json() 
+   
+
+and with Java:
+
+.. code-block:: java
+
+   String urlString = "http://demo.myaida.io/temp_mainapi/?username=demo&password=xxxxx....";
+   URL url = new URL(urlString);
+   URLConnection conn = url.openConnection();
+   InputStream is = conn.getInputStream();
+   // Do what you want with that stream
 
