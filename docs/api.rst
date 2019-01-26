@@ -23,6 +23,21 @@ Using the link in the main menu "**Schema API**" it will be possible to display 
 
 .. code-block:: python
    
-   def test():
-      print('Ciao')
+   import requests
+   
+   # api-endpoint 
+   URL = "http://demo.myaida.io/temp_mainapi/"
+
+   # param defined here
+   user_name = "demo"
+   pass = "xxxxxxx"
+
+   # defining a params dict for the parameters to be sent to the API 
+   PARAMS = {'username':user_name, 'password':pass} 
+
+   # sending get request and saving the response as response object 
+   r = requests.get(url = URL, params = PARAMS) 
+
+   # extracting data in json format 
+   data = r.json() 
 
