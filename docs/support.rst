@@ -11,3 +11,11 @@ The three main channels to open and manage a report or request information regar
   
 Contacting aida's team by phone
 ---------------------------------
+
+
+Email support
+---------------------------------
+
+
+Using the personal realtime aida assistant
+---------------------------------
