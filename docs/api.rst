@@ -16,6 +16,28 @@ Using the link in the main menu "**Schema API**" it will be possible to display 
   
   Here an example of a GET call from a GUI tools (postman) to the template description table
   
-  .. figure:: img/postman.png
+.. figure:: img/postman.png
    :scale: 50 %
    :alt: Aida test keywords
+   
+
+.. code-block:: python
+   # importing the requests library 
+   import requests 
+
+   # api-endpoint 
+   URL = "http://demo.myaida.io/temp_mainapi/"
+
+   # param defined here
+   user_name = "demo"
+   pass = "xxxxxxx"
+
+   # defining a params dict for the parameters to be sent to the API 
+   PARAMS = {'username':user_name, 'password':pass} 
+
+   # sending get request and saving the response as response object 
+   r = requests.get(url = URL, params = PARAMS) 
+
+   # extracting data in json format 
+   data = r.json() 
+
