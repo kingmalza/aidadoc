@@ -54,3 +54,5 @@ and with Java:
    InputStream is = conn.getInputStream();
    // Do what you want with that stream
 
+
+In this way you can carry out any type of operation on every Aida table from external programs or sources, allowing you to interface virtually any application to your test suite.
