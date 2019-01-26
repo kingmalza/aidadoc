@@ -22,5 +22,6 @@ Using the link in the main menu "**Schema API**" it will be possible to display 
    
 
 .. code-block:: python
-   import requests
+   def test():
+      import requests
 
