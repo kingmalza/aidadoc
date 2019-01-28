@@ -22,9 +22,17 @@ As soon as one of our operators takes charge of your request, he will contact yo
 Email support
 ---------------------------------
 
-It is also possible to contact aida technical assistance through the email address '**4u@cathedral.ai** mailto:4ucathedral.ai' _.
+It is also possible to contact aida technical assistance through the email address **4u@cathedral.ai**.
 Your report will be handled by our dedicated staff who will contact you as soon as possible.
 
 
 Using the personal realtime aida assistant
 ---------------------------------
+
+Aida's personal virtual assistance is the most complete and immediate assistance / consultancy tool.
+Within each aida environment there is a link located at the bottom right through which you can interact in real-time h24 with a dedicated consultant specialized in the aida's use and management for:
+
+  -Request information regarding the use of aida
+  -Request check and management in the process of creating / managing templates
+  -Report any malfunctions
+  -Request commercial assistance
