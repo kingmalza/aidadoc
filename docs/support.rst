@@ -30,7 +30,13 @@ Using the personal realtime aida assistant
 ---------------------------------
 
 Aida's personal virtual assistance is the most complete and immediate assistance / consultancy tool.
-Within each aida environment there is a link located at the bottom right through which you can interact in real-time h24 with a dedicated consultant specialized in the aida's use and management for:
+Within each aida environment there is a link located at the bottom right
+
+.. figure:: img/chat.png
+   :scale: 50 %
+   :alt: Aida login page
+
+through which you can interact in real-time h24 with a dedicated consultant specialized in the aida's use and management for:
 
   - Request information regarding the use of aida
   - Request check and management in the process of creating / managing templates
