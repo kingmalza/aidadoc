@@ -33,8 +33,8 @@ Aida's personal virtual assistance is the most complete and immediate assistance
 Within each aida environment there is a link located at the bottom right
 
 .. figure:: img/chat.png
-   :scale: 50 %
-   :alt: Aida login page
+   :scale: 100 %
+   :alt: Aida virtual assistant
 
 through which you can interact in real-time h24 with a dedicated consultant specialized in the aida's use and management for:
 
