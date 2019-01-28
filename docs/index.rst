@@ -20,7 +20,6 @@ Contents:
    advanced
    api
    support
-   involved
 
 
 Something About Aida
