@@ -56,3 +56,6 @@ and with Java:
 
 
 In this way you can carry out any type of operation on every Aida table from external programs or sources, allowing you to interface virtually any application to your test suite.
+
+List of browseable tables
+-----------------
