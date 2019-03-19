@@ -57,11 +57,12 @@ and with Java:
 
 In this way you can carry out any type of operation on every Aida table from external programs or sources, allowing you to interface virtually any application to your test suite.
 
-
+-----------------
 List of browseable tables
 -----------------
 
-* **t_test**
+t_test
+-----------------
 
 This bla bla bla
 
@@ -73,7 +74,8 @@ This bla bla bla
 
 
 
-* **temp_main**
+temp_main
+-----------------
 
 This bla bla bla
 
@@ -84,7 +86,8 @@ This bla bla bla
    
 
 
-* **temp_case**
+temp_case
+-----------------
 
 This bla bla bla
 
@@ -99,7 +102,8 @@ This bla bla bla
    URL = "<your aida address>/temp_caseapi/"
    
    
-* **temp_keywords**
+temp_keywords
+-----------------
 
 This bla bla bla
 
@@ -110,7 +114,8 @@ This bla bla bla
    
    
 
-* **temp_variables**
+temp_variables
+-----------------
 
 This bla bla bla
 
@@ -126,7 +131,8 @@ This bla bla bla
    
    
 
-* **temp_pers_keywords**
+temp_pers_keywords
+-----------------
 
 This bla bla bla
 
@@ -145,7 +151,8 @@ This bla bla bla
    URL = "<your aida address>/temp_pers_keywordsapi/"
    
    
-* **temp_test_keywords**
+temp_test_keywords
+-----------------
 
 This bla bla bla
 
@@ -164,7 +171,8 @@ This bla bla bla
    URL = "<your aida address>/temp_test_keywordsapi/"
    
    
-* **temp_library**
+temp_library
+-----------------
 
 This bla bla bla
 
@@ -179,7 +187,8 @@ This bla bla bla
    URL = "<your aida address>/temp_libraryapi/"
    
    
-* **t_schedule**
+t_schedule
+-----------------
 
 This bla bla bla
 
@@ -189,7 +198,8 @@ This bla bla bla
    URL = "<your aida address>/t_scheduleapi/"
    
    
-* **t_group**
+t_group
+-----------------
 
 This bla bla bla
 
@@ -199,7 +209,8 @@ This bla bla bla
    URL = "<your aida address>/t_groupapi/"
    
    
-* **t_group_test**
+t_group_test
+-----------------
 
 This bla bla bla
 
@@ -216,7 +227,8 @@ This bla bla bla
    URL = "<your aida address>/t_group_testapi/"
    
    
-* **t_history**
+t_history
+-----------------
 
 This bla bla bla
 
@@ -233,7 +245,8 @@ This bla bla bla
    URL = "<your aida address>/t_historyapi/"
    
    
-* **t_threads**
+t_threads
+-----------------
 
 This bla bla bla
 
@@ -250,7 +263,8 @@ This bla bla bla
    URL = "<your aida address>/t_threadsapi/"
    
    
-* **t_tags**
+t_tags
+-----------------
 
 This bla bla bla
 
@@ -260,7 +274,8 @@ This bla bla bla
    URL = "<your aida address>/t_tagsapi/"
    
    
-* **t_tags_route**
+t_tags_route
+-----------------
 
 This bla bla bla
 
