@@ -153,7 +153,9 @@ This bla bla bla
   **Foreign keyword in table:**
   
   main_id -> temp_main.id
+  
   test_id -> temp_case.id
+  
   key_id -> temp_keywords.id
 
 .. code-block:: python
@@ -205,6 +207,7 @@ This bla bla bla
   **Foreign keyword in table:**
   
   id_grp -> t_group.id
+  
   id_temp -> temp_main.id
 
 .. code-block:: python
@@ -221,6 +224,7 @@ This bla bla bla
   **Foreign keyword in table:**
   
   test_main -> temp_main.id
+  
   group_id -> t_group.id
 
 .. code-block:: python
@@ -237,6 +241,7 @@ This bla bla bla
   **Foreign keyword in table:**
   
   id_test -> t_history.id
+  
   id_time -> t_time.id
 
 .. code-block:: python
@@ -263,6 +268,7 @@ This bla bla bla
   **Foreign keyword in table:**
   
   main_id -> temp_main.id
+  
   tag_id -> t_tags.id
 
 .. code-block:: python
