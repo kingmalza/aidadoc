@@ -134,7 +134,9 @@ This bla bla bla
   **Foreign keyword in table:**
   
   main_id -> temp_main.id
+  
   standard_id -> temp_keywords.id
+  
   pers_id -> temp_keywords.id
 
 .. code-block:: python
