@@ -18,13 +18,26 @@ Once you have selected the step to be created for creating the template, you wil
 
 .. figure:: img/template1.png
    :scale: 50 %
-   :alt: Aida login page
+   :alt: Aida Main Template page
+   
+.. figure:: img/template2.png
+   :scale: 50 %
+   :alt: Aida Main Template page
 
 * **Description**: Template name that is being created
+* **Preconditions**: The preconditions of this Project. You can reference other templates here
+* **Steps**: The required steps to execute the template
+* **Expected Result**: The expected result after executing the template
 * **Note**: Additional information regarding the template you are going to create
+* **Active**: Activate or Deactivate the template (Deactivated templates are not able to run)
 
 .. warning::
    * **API Owner**: User to the interaction rights will be assigned through API to the specific table. Only the selected user can manage API calls to that specific data
+   
+The "**Clone this template**" option allows you to make an exact copy of the entire structure of the selected template including variables, values, keys and settings. The new template will be shown in the list of system templates with the name of the original followed by _cloned.
+
+.. note::
+   It is suggested, once the clone of an existing template has been made, to select the cloned template and change the name so that it is immediately understandable by the whole team.
 
 
 2-Test Cases
