@@ -65,7 +65,7 @@ List of browseable tables
 temp_main
 -----------------
 
-This bla bla bla
+Table containing the basic configuration data of the template such as name, notes, etc.
 
 .. code-block:: python
 
@@ -77,7 +77,7 @@ This bla bla bla
 temp_case
 -----------------
 
-This bla bla bla
+Table containing all the test cases defined in aida and their association with the template.
 
 .. note::
   **Foreign keyword in table:**
@@ -93,7 +93,7 @@ This bla bla bla
 temp_keywords
 -----------------
 
-This bla bla bla
+Table containing all the keywords defined at the level of the aida system for the creation of test cases; among the various fields are the name of the key, its most "human" definition and whether it is a standard or customized key
 
 .. code-block:: python
 
@@ -105,7 +105,7 @@ This bla bla bla
 temp_variables
 -----------------
 
-This bla bla bla
+Table for mapping the key / value association with the defined variables and their connection to the main template
 
 .. note::
   **Foreign keyword in table:**
@@ -122,7 +122,7 @@ This bla bla bla
 temp_pers_keywords
 -----------------
 
-This bla bla bla
+Table that keeps the memory relatively the association of several keywords between them so as to be able to create complex "Keywords" sections of the test
 
 .. note::
   **Foreign keyword in table:**
@@ -142,7 +142,7 @@ This bla bla bla
 temp_test_keywords
 -----------------
 
-This bla bla bla
+Table containing the data for the creation of the internal structure of the Test Case, a value / key grouping for each template
 
 .. note::
   **Foreign keyword in table:**
