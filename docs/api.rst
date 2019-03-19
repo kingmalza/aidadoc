@@ -89,7 +89,7 @@ This bla bla bla
 This bla bla bla
 
 .. note::
-  **Foreign keyword in table**
+  **Foreign keyword in table:**
   
   main_id -> temp_main.id
 
@@ -97,5 +97,175 @@ This bla bla bla
 
    # api-endpoint 
    URL = "<your aida address>/temp_caseapi/"
+   
+   
+* **temp_keywords**
+
+This bla bla bla
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/temp_keywordsapi/"
+   
+   
+
+* **temp_variables**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  main_id -> temp_main.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/temp_variablesapi/"
+   
+   
+
+* **temp_pers_keywords**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  main_id -> temp_main.id
+  standard_id -> temp_keywords.id
+  pers_id -> temp_keywords.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/temp_pers_keywordsapi/"
+   
+   
+* **temp_test_keywords**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  main_id -> temp_main.id
+  test_id -> temp_case.id
+  key_id -> temp_keywords.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/temp_test_keywordsapi/"
+   
+   
+* **temp_library**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  main_id -> temp_main.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/temp_libraryapi/"
+   
+   
+* **t_schedule**
+
+This bla bla bla
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_scheduleapi/"
+   
+   
+* **t_group**
+
+This bla bla bla
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_groupapi/"
+   
+   
+* **t_group_test**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  id_grp -> t_group.id
+  id_temp -> temp_main.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_group_testapi/"
+   
+   
+* **t_history**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  test_main -> temp_main.id
+  group_id -> t_group.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_historyapi/"
+   
+   
+* **t_threads**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  id_test -> t_history.id
+  id_time -> t_time.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_threadsapi/"
+   
+   
+* **t_tags**
+
+This bla bla bla
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_tagsapi/"
+   
+   
+* **t_tags_route**
+
+This bla bla bla
+
+.. note::
+  **Foreign keyword in table:**
+  
+  main_id -> temp_main.id
+  tag_id -> t_tags.id
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/t_tags_routeapi/"
    
 
