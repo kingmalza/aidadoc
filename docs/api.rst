@@ -62,6 +62,7 @@ List of browseable tables
 -----------------
 
 **t_test**
+
 This bla bla bla
 
 .. code-block:: python
@@ -73,11 +74,23 @@ This bla bla bla
 
 
 **temp_main**
+
 This bla bla bla
 
 .. code-block:: python
 
    # api-endpoint 
    URL = "<your aida address>/temp_mainapi/"
+   
+
+
+**temp_case**
+
+This bla bla bla
+
+.. code-block:: python
+
+   # api-endpoint 
+   URL = "<your aida address>/temp_caseapi/"
    
 
