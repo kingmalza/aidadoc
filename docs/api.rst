@@ -61,7 +61,7 @@ In this way you can carry out any type of operation on every Aida table from ext
 List of browseable tables
 -----------------
 
-**t_test**
+* **t_test**
 
 This bla bla bla
 
@@ -73,7 +73,7 @@ This bla bla bla
 
 
 
-**temp_main**
+* **temp_main**
 
 This bla bla bla
 
@@ -84,7 +84,7 @@ This bla bla bla
    
 
 
-**temp_case**
+* **temp_case**
 
 This bla bla bla
 
