@@ -92,7 +92,7 @@ Selecting a line you will be able to see the details of the whole process.
    From the history process selection detail it is possible to assign a ticket to another user relative to the test run that is being selected. To do this it is sufficient to select from the orange drop-down menu the name of the user for which the ticket have to be assigned, the explanatory text and, selecting the + button, the note will be entered and assigned to the selected user.
 If an email address was entered during the creation of the user, the system will send an email notification.
 
-From this position it will be possible to view the HTML representation of the test performed using the "**RAW Html**" key, the log file of each execution using the "**Log details**" button, the details of the variables and their values used during the test execution; In case the integration with Jira is active, it will be possible to send directly to a Jira Issue, the detail of test execution and the relative log created.
+From this position it will be possible to view the HTML representation of the test performed using the "**Test Structure**" button, the log file of each execution using the "**Log details**" button, download the XML format for each run using  "**Download XML**" link and the details of the variables and their values used during the test execution; In case the integration with Jira is active, it will be possible to send directly to a Jira Issue, the detail of test execution and the relative log created.
    
 
 Libraries
