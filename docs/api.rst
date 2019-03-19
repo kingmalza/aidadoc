@@ -61,18 +61,6 @@ In this way you can carry out any type of operation on every Aida table from ext
 List of browseable tables
 -----------------
 
-t_test
------------------
-
-This bla bla bla
-
-.. code-block:: python
-
-   # api-endpoint 
-   URL = "<your aida address>/t_testapi/"
-   
-
-
 
 temp_main
 -----------------
