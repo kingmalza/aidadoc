@@ -231,8 +231,6 @@ Contains all the data relating to the threads that have been executed or are sti
   **Foreign keyword in table:**
   
   id_test -> t_history.id
-  
-  id_time -> t_time.id
 
 .. code-block:: python
 
