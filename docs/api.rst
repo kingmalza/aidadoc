@@ -162,7 +162,7 @@ Table containing the data for the creation of the internal structure of the Test
 temp_library
 -----------------
 
-This bla bla bla
+Table containing all the data entered in the Test settings session, includes type of setting (Library, Resource, Test setup, Test Teardown, etc.), the value and the associated template.
 
 .. note::
   **Foreign keyword in table:**
@@ -174,22 +174,11 @@ This bla bla bla
    # api-endpoint 
    URL = "<your aida address>/temp_libraryapi/"
    
-   
-t_schedule
------------------
-
-This bla bla bla
-
-.. code-block:: python
-
-   # api-endpoint 
-   URL = "<your aida address>/t_scheduleapi/"
-   
-   
+    
 t_group
 -----------------
 
-This bla bla bla
+Table containing data relating to the test groups created.
 
 .. code-block:: python
 
@@ -200,7 +189,7 @@ This bla bla bla
 t_group_test
 -----------------
 
-This bla bla bla
+Table containing the group template association
 
 .. note::
   **Foreign keyword in table:**
@@ -218,7 +207,7 @@ This bla bla bla
 t_history
 -----------------
 
-This bla bla bla
+One of the main tables contains all the data relating to the execution of the tests, including the outputs in the xml and html formats of the results.
 
 .. note::
   **Foreign keyword in table:**
@@ -236,7 +225,7 @@ This bla bla bla
 t_threads
 -----------------
 
-This bla bla bla
+Contains all the data relating to the threads that have been executed or are still running. Combined with the t_history table, it provides a complete overview of each test run process
 
 .. note::
   **Foreign keyword in table:**
@@ -254,7 +243,7 @@ This bla bla bla
 t_tags
 -----------------
 
-This bla bla bla
+Table containing all user-defined tags
 
 .. code-block:: python
 
@@ -265,7 +254,7 @@ This bla bla bla
 t_tags_route
 -----------------
 
-This bla bla bla
+Table showing the Tag / Templates association
 
 .. note::
   **Foreign keyword in table:**
