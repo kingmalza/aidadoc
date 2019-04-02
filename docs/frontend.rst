@@ -162,3 +162,13 @@ By default the new keys are proposed as "Personal", to change this setting is su
 
 .. note::
    It is possible to show the keyword in a "human" connotation at the moment of the selection for the creation of template simply modifying the description in the Human field.
+   
+   
+   Aida Assist
+-----------------
+
+Aida Assist is the innovative interface of the aida project that allows you to import ad-hoc test templates from a Cathedral's owner artificial intelligence engine that, by analyzing the use of the suite learns always with more precision what the habits about the user's Test Strategies and creates templates ready to import and use / modify within your suite.
+
+.. figure:: img/history.png
+   :scale: 50 %
+   :alt: Aida test history
