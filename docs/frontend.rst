@@ -163,7 +163,8 @@ By default the new keys are proposed as "Personal", to change this setting is su
 .. note::
    It is possible to show the keyword in a "human" connotation at the moment of the selection for the creation of template simply modifying the description in the Human field.
   
-  
+
+
    
 Aida Assist
 -----------------
