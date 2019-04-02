@@ -169,6 +169,15 @@ By default the new keys are proposed as "Personal", to change this setting is su
 
 Aida Assist is the innovative interface of the aida project that allows you to import ad-hoc test templates from a Cathedral's owner artificial intelligence engine that, by analyzing the use of the suite learns always with more precision what the habits about the user's Test Strategies and creates templates ready to import and use / modify within your suite.
 
-.. figure:: img/history.png
+.. figure:: img/Assist_1.png
    :scale: 50 %
    :alt: Aida test history
+   
+Using the magnifying glass located above each frame, you can go to see the template structure:
+
+.. figure:: img/Assist_2.png
+   :scale: 50 %
+   :alt: Aida test history
+   
+To directly import one or more templates into your environment it is sufficient to select the template and click on the "IMPORT THIS TEMPLATE" button.
+At this point the template and all its configuration will be present among your data, you can launch tests directly or go to change it as you see fit.
